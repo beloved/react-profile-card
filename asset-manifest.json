@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-profile-card/static/css/main.6ae44f06.chunk.css",
+    "main.js": "/react-profile-card/static/js/main.1dc50fb6.chunk.js",
+    "main.js.map": "/react-profile-card/static/js/main.1dc50fb6.chunk.js.map",
+    "runtime-main.js": "/react-profile-card/static/js/runtime-main.d055405b.js",
+    "runtime-main.js.map": "/react-profile-card/static/js/runtime-main.d055405b.js.map",
+    "static/js/2.1da32e13.chunk.js": "/react-profile-card/static/js/2.1da32e13.chunk.js",
+    "static/js/2.1da32e13.chunk.js.map": "/react-profile-card/static/js/2.1da32e13.chunk.js.map",
+    "static/js/3.7d5390e8.chunk.js": "/react-profile-card/static/js/3.7d5390e8.chunk.js",
+    "static/js/3.7d5390e8.chunk.js.map": "/react-profile-card/static/js/3.7d5390e8.chunk.js.map",
+    "index.html": "/react-profile-card/index.html",
+    "static/css/main.6ae44f06.chunk.css.map": "/react-profile-card/static/css/main.6ae44f06.chunk.css.map",
+    "static/js/2.1da32e13.chunk.js.LICENSE.txt": "/react-profile-card/static/js/2.1da32e13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-profile-card/static/media/ocean.685a2e69.jpg",
+    "static/media/profile-img.49c0e3f0.jpg": "/react-profile-card/static/media/profile-img.49c0e3f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d055405b.js",
+    "static/js/2.1da32e13.chunk.js",
+    "static/css/main.6ae44f06.chunk.css",
+    "static/js/main.1dc50fb6.chunk.js"
+  ]
+}
